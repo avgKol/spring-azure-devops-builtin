@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
         - name: sbdemo 
-          image: 
+          image: anything
           ports:
           - containerPort: 8080
